@@ -1,0 +1,15 @@
+#gameField{
+    border: 4px solid rgb(255, 213, 0);
+}
+
+body{
+    height: 100vh;
+    background-color: black;
+    text-align: center;
+    overflow: hidden;
+}
+
+h1, h3{
+    font-family: Comic Sans MS;
+    color: white;
+}
